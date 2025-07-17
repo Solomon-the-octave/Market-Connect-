@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "206439705608",
-    "project_id": "market-mobile-27138",
-    "storage_bucket": "market-mobile-27138.firebasestorage.app"
+    "project_number": "1078115269627",
+    "project_id": "market-connect-4dbb1",
+    "storage_bucket": "market-connect-4dbb1.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:206439705608:android:787277e0f2dc054da675bd",
+        "mobilesdk_app_id": "1:1078115269627:android:d0eefa8000d095d384295e",
         "android_client_info": {
-          "package_name": "com.example.client"
+          "package_name": "com.android.application"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDaOedckIo0fw5XqvtL6w5eVFFIh15mqOk"
+          "current_key": "AIzaSyD0tCZ2HKD2MobRdQQtHTZ2IKF7PxpHf3Q"
         }
       ],
       "services": {

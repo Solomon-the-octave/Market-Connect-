@@ -1,7 +1,4 @@
 # Market-Connect
-
-![Market-Connect Banner](https://via.placeholder.com/1200x300.png?text=Market-Connect)
-
 **Empowering smallholder farmers in Sub-Saharan Africa by connecting them directly with buyers through a modern, real-time mobile marketplace.**
 
 ---

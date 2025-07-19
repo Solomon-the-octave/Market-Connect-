@@ -1,0 +1,5 @@
+package com.example.makert_connect
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
